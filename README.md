@@ -6,3 +6,4 @@
 物品栏第二个物品是木稿，可以挖方块
 掉落的方块可以捡起来使用鼠标右键可以放置
 
+<img src="https://github.com/FlyingQwQ/python2d-game/blob/main/%E6%95%88%E6%9E%9C%E5%9B%BE.gif" width="210px">
